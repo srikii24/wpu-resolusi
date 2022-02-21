@@ -6,6 +6,7 @@ Rencana Konten WPU
     > Angular
     > React
 - PHP Frameworks
-  * Laravel
+  > Laravel
 - Interview
 - Vlogs
+- Phyton
